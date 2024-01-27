@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching ?help | McwYt Discord Bot","Listening McwYt Videos","McwYt"];
+const statusMessages = ["Watching ?help | McwYt Discord Bot"];
 
 
 let currentIndex = 0;
